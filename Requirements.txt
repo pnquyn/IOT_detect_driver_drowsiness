@@ -1,7 +1,7 @@
 imutils==0.5.3
 opencv-contrib-python==4.5.5.64
 opencv-python==4.5.5.64
-dlib-19.24.1-cp311-cp311-win_amd64.whl
+# dlib-19.24.1-cp311-cp311-win_amd64.whl
 numpy==1.24.4
 cmake==3.18.0
 scipy==1.10.1
